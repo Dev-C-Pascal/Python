@@ -1,0 +1,15 @@
+a=input()
+b=input()
+b = int(b)
+c=input()
+d=input()
+d = int(d)
+e=input()
+f=input()
+f = int(f)
+b1=b+18
+d1=d+18
+f1=f+18
+print(a," will reach adulthood in ",b1,sep='')
+print(c," will reach adulthood in ",d1,sep='')
+print(e," will reach adulthood in ",f1,sep='')
