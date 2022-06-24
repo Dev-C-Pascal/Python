@@ -1,0 +1,1 @@
+Determine the number of columns of a matrix in which the sum of the elements is greater than the sum of the diagonal parts
