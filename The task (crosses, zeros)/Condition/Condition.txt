@@ -1,0 +1,1 @@
+Write a program that determines who wins a game of tic-tac-toe on a square field by lining up three of its symbols horizontally or vertically or diagonally: crosses (print the Latin letter "x"), zeros (print "o"). It is guaranteed that no two players win at the same time. Nothing is guaranteed about the number of moves made by either player.

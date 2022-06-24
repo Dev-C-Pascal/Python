@@ -1,0 +1,2 @@
+The first line of the input should be a natural number of at least 3 - the size of the field.
+This is followed by rows of cells in the field, with an "x" for a cross, an "o" for a zero, and a dot for an empty cell.
