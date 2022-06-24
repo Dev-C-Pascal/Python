@@ -1,0 +1,3 @@
+Create a function f(x) that swaps digits in a two-digit number
+numbers and leaves the other numbers unchanged. Demonstrate
+the function works using an example.
