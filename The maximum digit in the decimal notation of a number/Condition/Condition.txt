@@ -1,0 +1,8 @@
+Write a programme that finds the maximum digit in
+decimal number.
+Input data
+The input string contains a natural number N. It is guaranteed that N
+≤ 109.
+The output
+The program has to output a single number: the maximal digit in
+decimal number N.
