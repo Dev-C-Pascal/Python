@@ -1,0 +1,6 @@
+Make a program that determines the statistics of a number - the number of
+the use of different digits in its entry (6 -12 lines)
+
+Example:
+Suppose we enter the number 3246789245
+And at the end of the program should be a string 0021111111 which means that the entered number of 0 zeros, 0 units, 2 deuce, 1 triplet, and so on to 
