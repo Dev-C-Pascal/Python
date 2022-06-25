@@ -1,0 +1,11 @@
+Write a program that outputs a set of strings derived from
+of the original string (more than 20 characters long) according to the principle: after each
+a' insert the number 5 after each 'a'. For example, the original string:
+'the character string will be converted into a set of strings'
+The result will be:
+‘строка5’
+‘ символов будет пребра5’
+‘зова5’
+‘на5’
+‘ в на5’
+‘бор строк’
