@@ -1,0 +1,9 @@
+Write a programme that collects and sorts the word fragments
+Shards
+
+Time limit - 1 second
+Memory limit - 64Mb
+Input - standard input or input.txt
+Output - standard output or output.txt
+
+Write a program that will collect and sort the shards.

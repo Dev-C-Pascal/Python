@@ -1,0 +1,32 @@
+A string of words written with a colon followed by a space.
+Output format
+Three strings:
+
+- words shorter than 4 characters output in lower case in alphabetical order; at the beginning of the line output Short:
+
+- words longer than 7 characters output in reverse alphabetical order; at the beginning of the string output Long:
+
+- words that have the letter w in them, output with a capital letter, the rest small in the order of entry; at the beginning of a string, output With letter:
+
+Words in strings output semicolon and space.
+
+
+
+
+
+Example 1
+
+Enter
+Shattered : the : shards : caused : even : more : trouble : than : the : mirror : itself
+Output
+Short: the; the
+Long: Shattered
+With letter:
+
+Example 2
+Enter
+How : disgusting : and : vicious : this : troll : is
+Withdrawal
+Short : and; how; is
+Long : disgusting
+With letter: How
