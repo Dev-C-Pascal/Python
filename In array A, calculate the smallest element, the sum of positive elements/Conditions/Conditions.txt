@@ -1,0 +1,2 @@
+In a two-dimensional array A, consisting of n*n integers, calculate: the smallest element; the sum of positive elements;
+the number of prime numbers on the diagonals of the matrix !!! without numpy!!
