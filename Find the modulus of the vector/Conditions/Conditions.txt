@@ -1,0 +1,5 @@
+Calculate vector X by solving a system of linear equations
+0.34x1+0.71x2+0.63x3=2.08
+0.71x1-0.65x2-0.18x3=0.17
+1.17x1-2.35x2+0.75x3=1.28
+Find the modulus of the vector |2X-3|
