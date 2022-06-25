@@ -1,0 +1,24 @@
+The veterinary clinic's database stores information about patient cats in a cortex list. Data about cats and their owners
+is recorded in the format "Name of cat, Age of cat, Name of owner,
+Owner's last name":
+cats = [('Мартин', 5, 'Алексей', 'Егоров'),
+('Фродо', 3, 'Анна', 'Самохина'),
+('Вася', 4, 'Андрей', 'Белов'),
+('Муся', 7, 'Игорь', 'Бероев'),
+('Изольда', 2, 'Игорь', 'Бероев'),
+('Снейп', 1, 'Марина', 'Апраксина'),
+('Лютик', 4, 'Виталий', 'Соломин'),
+('Снежок', 3, 'Марина', 'Апраксина'),
+('Марта', 5, 'Сергей', 'Колесников'),
+('Буся', 12, 'Алена', 'Федорова'),
+('Джонни', 10, 'Игорь', 'Андропов'),
+('Мурзик', 1,'Даниил', 'Невзоров'),
+('Барсик', 2, 'Виталий', 'Соломин'),
+('Рыжик', 7, 'Владимир', 'Медведев'),
+('Матильда', 8, 'Андрей', 'Белов'),
+('Гарфилд', 3, 'Александр', 'Березуев')]
+It turned out that the names of some of the owners were repeated because
+because they have more than one cat. The data storage needs to be optimised
+so that when the data is printed out for each cat owner
+each owner's cat on one line when they print it out:
+Игорь Бероев: Муся, 7; Изольда, 2
