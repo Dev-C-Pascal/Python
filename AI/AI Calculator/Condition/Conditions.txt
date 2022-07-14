@@ -1,0 +1,5 @@
+This is how the application works:
+
+1.It takes in inputs as text
+2.Translates them into mathematical notation
+3.Returns the answers in the numerical form
