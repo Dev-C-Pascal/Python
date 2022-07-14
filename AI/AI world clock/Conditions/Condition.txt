@@ -1,0 +1,1 @@
+Write an AI that determines the time in different cities of the world. On the input receives a city and on the output time in Greenwich(GMT)
