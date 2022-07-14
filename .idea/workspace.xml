@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8fb0441-e92e-496f-8356-9a9751718b7f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/The task (crosses, zeros)/Code.py" beforeDir="false" afterPath="$PROJECT_DIR$/The task (crosses, zeros)/Code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Unnamed">
     <configuration name="Площадь и периметр прямоугольника" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" temporary="true" nameIsGenerated="true">
@@ -77,8 +78,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.Площадь и периметр прямоугольника" />
+      <item itemvalue="Python.Unnamed" />
     </list>
     <recent_temporary>
       <list>
